@@ -3,7 +3,7 @@
 > HOW TO USE
 - clone the repo `git clone https://github.com/sho34/directx-exceptions.git` into your directx12/directx11 project folder.
 
-- Include the two header files in your project.
+- Include structure.
   ```
     #include <wrl.h>
     #include <d3d12.h>
